@@ -1,0 +1,26 @@
+<svg viewBox="0 0 1260 420" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1260" height="420">
+<rect width="1260" height="420" rx="30" fill="#4A4356"/>
+</mask>
+<g mask="url(#mask0)">
+<rect opacity="0.01" width="1259" height="420" fill="url(#pattern0)"/>
+<circle opacity="0.1" cx="1047" cy="181" r="178.5" stroke="#5946D7" stroke-width="341"/>
+<circle opacity="0.1" cy="-11" r="201" stroke="#FB6019" stroke-width="80"/>
+<path opacity="0.1" d="M322 -11C322 35.9519 311.732 82.3357 291.916 124.901C272.1 167.466 243.215 205.183 207.285 235.408" stroke="#FB6019" stroke-width="50"/>
+<path opacity="0.1" d="M174.725 259.472C135.286 284.949 90.7535 301.494 44.247 307.945C-2.25943 314.397 -49.6142 310.601 -94.4986 296.821" stroke="#FB6019" stroke-width="50"/>
+<path opacity="0.3" d="M618.603 333.521C612.815 341.452 604.114 346.759 594.413 348.275C584.713 349.79 574.808 347.39 566.877 341.603C558.946 335.815 553.638 327.114 552.123 317.413C550.607 307.713 553.007 297.807 558.795 289.876" stroke="#FB6019" stroke-width="20"/>
+<g opacity="0.2" filter="url(#filter0_f)">
+<ellipse cx="902" cy="210.5" rx="234" ry="164.5" fill="white"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.317712" height="0.952381">
+<use xlink:href="#image0" transform="scale(0.000794281 0.00238095)"/>
+</pattern>
+<filter id="filter0_f" x="504" y="-118" width="796" height="657" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="82" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

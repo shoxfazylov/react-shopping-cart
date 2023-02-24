@@ -1,0 +1,14 @@
+version: '3'
+services:
+  frontprod:
+    build:
+      context: .
+    ports:
+      - "127.0.0.1:3000:3000"
+    command: start
+    networks:
+      - backend-default
+
+networks:
+  backend-default:
+    external: true

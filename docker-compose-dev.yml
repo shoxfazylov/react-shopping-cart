@@ -1,0 +1,18 @@
+version: '3'
+services:
+  frontdev:
+    build:
+      context: .
+    ports:
+      - "127.0.0.1:3001:3000"
+    command: start
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+      - /usr/src/app/.next
+    networks:
+      - backend-default
+
+networks:
+  backend-default:
+    external: true
