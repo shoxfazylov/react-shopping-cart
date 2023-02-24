@@ -1,3 +1,3 @@
 export const withBasePath = (path: string) => {
-  return `http://api.oner.ru${path}`
+  return `https://example.com${path}`
 }
